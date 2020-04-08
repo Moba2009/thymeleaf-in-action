@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7d90187-0dce-4c84-8fae-62ddba08d71e" name="Default Changelist" comment="" />
+    <list default="true" id="a7d90187-0dce-4c84-8fae-62ddba08d71e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,12 +111,24 @@
       <workItem from="1585748108301" duration="1302000" />
       <workItem from="1586262846377" duration="1791000" />
       <workItem from="1586275197476" duration="113000" />
-      <workItem from="1586342057631" duration="2230000" />
+      <workItem from="1586342057631" duration="2726000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1586344469526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586344469526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="24" width="1174" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585583371905">
@@ -124,6 +139,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1585071017611" />
+    <state x="163" y="0" key="CommitChangelistDialog2" timestamp="1586344464892">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1586344464891" />
     <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1585067511299">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -184,6 +203,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586343597910" />
+    <state x="275" y="91" key="Vcs.Push.Dialog.v2" timestamp="1586344562874">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="91" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586344562874" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1585585059182">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
